@@ -78,5 +78,5 @@ This project presents two interactive dashboards that uncover insights from **cr
 
 **Viraj Shinde**  
 📧 virajshinde1000@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+🔗 [LinkedIn](https://www.linkedin.com/in/viraj-shinde26/)
 
