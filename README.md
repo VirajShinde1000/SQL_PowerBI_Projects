@@ -1,2 +1,2 @@
-# SQL_PowerBI_projects
+# SQL_PowerBI_Projects
 This repository showcases a collection of real-world SQL and Power BI projects that I have personally worked on to demonstrate my skills in data wrangling, analysis, and storytelling. I used SQL to extract, clean, and transform data, and leveraged Power BI to design interactive dashboards and deliver meaningful business insights. Each project reflects an end-to-end analytical workflow, highlighting my hands-on experience in turning raw data into actionable intelligence.
