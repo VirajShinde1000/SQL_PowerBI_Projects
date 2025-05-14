@@ -5,8 +5,7 @@ Welcome to the **Pizza Sales Analysis Dashboard** repository! This project showc
 ---
 
 ## 🖼️ Dashboard Preview
-
-![Pizza Sales Analysis Dashboard](./Pizza_Sales_Analysis_Dashboard.png)
+<img width="1021" alt="Screenshot 2025-05-12 at 4 56 06 PM" src="https://github.com/user-attachments/assets/0e47b93a-b51a-4c09-a40b-344e09e87884" />
 
 ---
 
