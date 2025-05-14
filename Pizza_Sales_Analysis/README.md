@@ -71,5 +71,5 @@ Feel free to fork, suggest improvements, or raise an issue.
 
 ---
 
-**Author**: [Your Name]  
-**LinkedIn**: [Your LinkedIn Profile]
+**Author**: Viraj Shinde  
+**LinkedIn**: https://www.linkedin.com/in/viraj-shinde26/
